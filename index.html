@@ -20,9 +20,9 @@
 <body>
 
   <div class="container">
-    <div class="-main-content">
+    <div class="main-content">
       <section class="content">
-        <h1>Get insights that help your business grow.</h1>
+        <h1>Get <span>insights</span> that help your business grow.</h1>
         <p>Discover the benefits of data analytics and make better decisions regarding revenue, customer
           experience, and overall efficiency.</p>
 
@@ -43,7 +43,11 @@
       </section>
     </div>
     <div class="img-info">
-      <img src="images/image-header-desktop.jpg" alt="Imagem Ilustrativa">
+      <picture>
+        <source media="(max-width: 600px)" srcset="images/image-header-mobile.jpg">
+        <img src="images/image-header-desktop.jpg" alt="Imagem Ilustrativa">
+      </picture>
+      
     </div>
   </div>
 
