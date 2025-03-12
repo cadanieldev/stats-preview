@@ -8,7 +8,7 @@ Este é um desafio do [Frontend Mentor](https://www.frontendmentor.io) que consi
 
 O desafio era construir um componente de cartão que exibe estatísticas de negócios, como número de empresas, templates e consultas. O layout deve ser responsivo, adaptando-se a diferentes tamanhos de tela.
 
-(../stats-preview-desktop.png)
+(./stats-preview-desktop.png)
 
 ### Requisitos
 
